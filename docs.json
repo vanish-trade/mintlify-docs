@@ -35,9 +35,10 @@
               "platform/referral",
               "platform/rewards"
             ]
-          },
+          }
         ]
-      },
+      }
+    ]
   },
   "logo": {
     "light": "/logo/light.svg",
@@ -58,15 +59,15 @@
   },
   "contextual": {
     "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity",
+      "mcp",
+      "cursor",
+      "vscode"
+    ]
   },
   "footer": {
     "socials": {
