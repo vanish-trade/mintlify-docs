@@ -48,7 +48,7 @@
     "links": [
       {
         "label": "Support",
-        "href": "https://discord.gg"
+        "href": "https://discord.gg/vanishtrade"
       }
     ],
     "primary": {
@@ -60,7 +60,7 @@
   "footer": {
     "socials": {
       "x": "https://x.com/vanishTrade",
-      "discord": "https://discord.gg",
+      "discord": "https://discord.gg/vanishtrade",
       "website": "https://vanish.trade"
     }
   }
